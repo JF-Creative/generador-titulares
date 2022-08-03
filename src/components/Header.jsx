@@ -11,7 +11,6 @@ export function Header(){
                         <li><NavLink to='/'>Generar Titulares</NavLink></li>
                         <li><NavLink to='/tips'>Tips para crear titulares</NavLink></li>
                         <li><NavLink to='/about'>¿Qué es esto?</NavLink></li>
-                        <li><NavLink to='*'>Not Found</NavLink></li>
                     </ul>
                 </nav>
             </header>

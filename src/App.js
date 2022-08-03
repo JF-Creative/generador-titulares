@@ -19,7 +19,7 @@ function App() {
         <Route path="/" element={<GeneradorTitulares/>}/>
         <Route path="/tips" element={<Tips/>}/>
         <Route path="/about" element={<Info/>}/>
-        <Route path="*" element={<NotFoud/>}/>
+        {/* <Route path="*" element={<NotFoud/>}/> */}
       </Routes>
       <Footer/>
     </BrowserRouter>
