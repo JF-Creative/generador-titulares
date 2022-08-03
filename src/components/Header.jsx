@@ -8,9 +8,10 @@ export function Header(){
                 <h1 className="app-title">Generador de Titulares </h1>
                 <nav className='nav'>
                     <ul>
-                        <li><NavLink to='/'>Generar Titulares</NavLink></li>
-                        <li><NavLink to='/tips'>Tips para crear titulares</NavLink></li>
-                        <li><NavLink to='/about'>¿Qué es esto?</NavLink></li>
+                        <li><NavLink to='https://jf-creative.github.io/titles-generator-to-whatsapp/'>Generar Titulares</NavLink></li>
+                        <li><NavLink to='https://jf-creative.github.io/titles-generator-to-whatsapp/tips'>Tips para crear titulares</NavLink></li>
+                        <li><NavLink to='https://jf-creative.github.io/titles-generator-to-whatsapp/about'>¿Qué es esto?</NavLink></li>
+                        <li><NavLink to='*'>Not Found</NavLink></li>
                     </ul>
                 </nav>
             </header>
